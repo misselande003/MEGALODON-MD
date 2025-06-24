@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "MEGALODON~MD~ZcQlXByR#G2-hTaJOJrseRnbMIamAADvNTeMypOe_0Hddp3gtgwk",
       "required": true,
-      "value": ""
+      "value": "true"
     },  
     
     "STICKER_NAME": {
